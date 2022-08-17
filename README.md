@@ -2,8 +2,6 @@
 
 O projeto Mural Virtual tem como objetivo ser um meio de comunicação e divulgação em um ambiente de trabalho.
 
-Todo material está publicado sob licença [GPL-3.0](https://www.gnu.org/licenses/quick-guide-gplv3.pt-br.html).
-
 
 ## Artefatos do Projeto
 
