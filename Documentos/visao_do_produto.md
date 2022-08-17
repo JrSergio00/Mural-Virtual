@@ -76,15 +76,9 @@ para documentos.</p>
 
 <h4>5 - Principais necessidades dos usuários</h5>
 
-<p>Um ambiente simples e de fácil interpretação.</p>
+<p>Um ambiente simples e de fácil interpretação, onde seja possível encontrar uma série de documentos e websites entram no quesito de necessidades dos usuários, como por exemplo: Código de Ética Profissional do Servidor Público, regulamentação de trajes em repartições públicas federais, ramais da repartição, lista de feriados nacionais, entre outros.</p>
 
-<h4>6 - Visão geral do produto</h4>
-
-<p>Uma série de documentos e websites entram no quesito de necessidades dos usuários, como por exemplo: Código de Ética Profissional do Servidor 
-Público, regulamentação de trajes em repartições públicas federais, ramais da repartição, lista de feriados nacionais, entre outros.</p>
-
-
-<h4>7- Requisitos funcionais</h4>
+<h4>6- Requisitos funcionais</h4>
 
 <table>
    <tr>
@@ -99,7 +93,7 @@ Público, regulamentação de trajes em repartições públicas federais, ramais
    </tr>
 </table>
 
-<h4>8 - Requisitos não-funcionais</h4>
+<h4>7 - Requisitos não-funcionais</h4>
 
 <table>
    <tr>
