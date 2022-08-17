@@ -76,8 +76,7 @@ para documentos.</p>
 
 <h4>5 - Principais necessidades dos usuários</h5>
 
-<p>Uma série de documentos e websites entram no quesito de necessidades dos usuários, como por exemplo: Código de Ética Profissional do 
-Servidor Público, regulamentação de trajes em repartições públicas federais, ramais da repartição, lista de feriados nacionais, entre outros.</p>
+<p>Um ambiente simples e de fácil interpretação.</p>
 
 <h4>6 - Visão geral do produto</h4>
 
