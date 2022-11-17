@@ -61,10 +61,12 @@ a{
     box-shadow: 2px 2px 8px #6e6e6e;
     width: 5em;
 }
+p{
+    text-align: center;
+}
 footer{
     background-image: linear-gradient(to right, rgba(122, 125, 255, 1), rgba(30, 32, 126, 0.71)) ;
     padding: 2em 0;
     min-width: 100%;
-    position: absolute;
-    bottom: 0;
+    position: fixed;
 }
