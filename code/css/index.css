@@ -43,7 +43,7 @@ h2:before, h2:after{
     row-gap: 2.5em;
     justify-content: center;
     flex-wrap: wrap;
-    margin: 4em 5em;
+    margin: 7em 5em;
 }
 a{
     display: flex;
