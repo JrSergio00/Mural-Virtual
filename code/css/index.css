@@ -12,7 +12,7 @@ header{
     padding: 0.7em;
     box-shadow: 0.2em 0 0.5em black;
 }
-header picture{
+header a{
     display: flex;
     justify-content: center;
 }
@@ -47,7 +47,7 @@ h2:before, h2:after{
     flex-wrap: wrap;
     margin: 7em 5em;
 }
-a{
+main a{
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
@@ -82,23 +82,20 @@ footer{
 
 /* Responsividade */
 @media (min-width: 810px){
-    a{
+    main a{
         max-width: 10em;
         max-height: 30px;
     }
 }
 @media (max-width: 810px){
-    header picture img{
-        height: 55px;
-    }
-    a{
+    main a{
         min-width: 10em;
         min-height: 30px;
     }
     a p{
         font-size: 0.8em;
     }
-    a img{
+    main a img{
         height: 40px;
         max-width: 3.2em;
     }
@@ -114,13 +111,12 @@ footer{
     #container{
         margin: 4em 6em;
     }
-
 }
 @media (max-width: 705px){
-    header picture img{
+    header a img{
         height: 50px;
     }
-    a{
+    main a{
         min-width: 10em;
         min-height: 20px;
     }
@@ -129,13 +125,12 @@ footer{
         row-gap: 2em;
         column-gap: 6em;
     }
-
 }
 @media (max-width: 610px){
-    header picture img{
+    header a img{
         height: 40px;
     }
-    a{
+    main a{
         min-width: 8em;
         min-height: 20px;
         
@@ -145,7 +140,7 @@ footer{
         row-gap: 2em;
         column-gap: 4em;
     }
-    a img{
+    main a img{
         height: 30px;
         max-width: 3.2em;
     }
@@ -161,13 +156,13 @@ footer{
     h1{
         font-size: 1em; 
     }
-    a p{
+    main a p{
         font-size: 0.6em;
     }
 
 }
 @media (max-width: 550px){
-    a{
+    main a{
         min-width: 8em;
         min-height: 20px;
         
@@ -179,7 +174,7 @@ footer{
     }
 }
 @media (max-width: 385px){
-    a{
+    main a{
         min-width: 6em;
         min-height: 15px;
         
@@ -189,14 +184,14 @@ footer{
         row-gap: 1em;
         column-gap: 1em;
     }
-    a img{
+    main a img{
         height: 25px;
         max-width: 3em;
     }
     img#gov{
         height: 15px;
     }
-    a p{
+    main a p{
         font-size: 0.6em;
         margin: 0 -1em;
     }
